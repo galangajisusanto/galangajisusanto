@@ -12,7 +12,7 @@ Currently i'm focus to building greate iOS Application.<br>
 
 <p align="left">
 <h3 align="left">Medium blog</h3>
-I share stories about my journey,tips trick and exploration in mobile technology. Follow me on [Medium](https://www.galangaji.medium.com)
+I share stories about my journey, tips trick and exploration in mobile technology. Follow me on [Medium](https://www.galangaji.medium.com)
 </p>
 
 <p align="left">
