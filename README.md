@@ -2,11 +2,11 @@
 
 <h3 align="center">Grow Mindset 🌱</h3>
 
-<h4 align="left">
+<p align="left">
 A software Engineer interested in mobile technology.<br> 
 I have experience using ios native, flutter and android native to build mobile application.<br>
 Currently i'm focus to building greate iOS Application.<br>
-</h4>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galangajisusanto" alt="galangajisusanto" /> </p>
 
