@@ -17,7 +17,7 @@ I share stories about my journey, tips trick and exploration in mobile technolog
 
 <p align="left">
 <h3 align="left">Connect with me</h3>
-<a href="https://linkedin.com/galangajisusanto" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109814543-36eb6300-7c61-11eb-8b2e-a510701309e7.png" alt="galangajisusanto" height="50" width="50" /></a>     
+<a href="https://www.linkedin.com/in/galang-aji-susanto-29815913a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109814543-36eb6300-7c61-11eb-8b2e-a510701309e7.png" alt="galangajisusanto" height="50" width="50" /></a>     
 <a href="https://instagram.com/galangaji_s" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109813457-f5a68380-7c5f-11eb-93e7-5ba13de0695e.png" alt="galangaji_s" height="50" width="50" /></a>
 </p><br>
 
