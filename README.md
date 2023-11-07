@@ -3,9 +3,7 @@
 <h3 align="center">Grow Mindset 🌱</h3>
 
 <p align="left">
-A software Engineer interested in mobile technology.<br> 
-I have experience using ios native, flutter and android native to build mobile application.<br>
-Currently i'm focus to building great iOS Application.<br>
+Have 5 years of experience as a Mobile Developer using iOS native, android native, and flutter (focused on becoming an iOS Developer for 3 years).<br> Have built several apps using high-quality code and industry standards. Experienced with UIKit, Swift UI, SnapKit, RX Swift, Core Data, Cloud Kit, User Default, MVC, MVVM, MVVM-C, VIPER and created unit testing. Strong desire to help people solve their problems with technology.<br> Have published several mobile applications on App Store and Play Store.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galangajisusanto" alt="galangajisusanto" /> </p>
